@@ -1,16 +1,12 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+world:
+  name: world-of-l5 
   description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
+  cover: assets/images/talent_send.png
+game-development:
+  name: development
+  description: Our progress making this game
+  cover: assets/images/talent_print.png
+announcements:
+  name: announcements
   description: False
-  cover: False
+  cover: assets/images/talent_practice.png
