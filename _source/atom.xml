@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>The orbital board game</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Life in L5</title>
+        
+          <description>&lt;p&gt;&lt;em&gt;The responsibility of supporting human life in space is shared between five highly specialized Careers.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 01 Aug 2017 06:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/life-in-l5</link>
+        <guid isPermaLink="true">http://localhost:4000/life-in-l5</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Windows through Time</title>
+        
+          <description>&lt;p&gt;Living in space without windows is pretty intolerable. Windows keep everyone oriented. They provide a sense of scale. The bigger the vista the better.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 30 Jul 2017 06:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/windows-through-history</link>
+        <guid isPermaLink="true">http://localhost:4000/windows-through-history</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Welcome to L5</title>
+        
+          <description>&lt;p&gt;HELLO, WORLD!&lt;/p&gt;
+
+&lt;p&gt;We’re making a board game called L5.&lt;/p&gt;
+
+&lt;p&gt;Here’s how we’re describing it right now — but this description has been through many wild rewrites over this past year of development, so don’t hold us to any of it:&lt;/p&gt;
+
+&lt;p&gt;L5 is a cooperative role-playing strategy game where you and your friends become a team of experts trying to prevent giant space stations from breaking apart. With unique skill sets, specialized tech, and a stacked deck of talents, you’ll overcome personal crises, unlock hidden files, and confront the station’s super-powered leadership to keep everything hanging together in a stable orbit. While playing through each station, you’ll ask questions and gather clues about the wider world of L5… hints which may lead you past the edges of Orbital Society to the lonely places where Legends live.&lt;/p&gt;
+
+&lt;p&gt;We want to make a game that’s quick and fun to play for folks who’ve always been into the &lt;em&gt;idea&lt;/em&gt; of a full-blown role-playing tabletop game but who can’t quite get it together to read a book of rules or do much story prep ahead of time. Playing through each station for the first time should feel like an episodic entry into an endless L5 saga – a series of 45- to 90-minute puzzle-mazes that leads you deeper into the darker lore hidden within this whimsical far-future civilization.&lt;/p&gt;
+
+&lt;p&gt;You’ll collect and roll dice, build decks of talent cards, and explore an evolving game board to unlock top-secret information about the world around you as you prepare to face the station’s Super in a test of strategy, luck, and memory.&lt;/p&gt;
+
+&lt;p&gt;I’m sure you have a lot of questions. So do we.&lt;/p&gt;
+
+&lt;p&gt;And we want this site to be the place to ask them. This is a place where we’ll post updates about the lore of the world we’re building, track highlights from our development process, and publish a downloadable, DIY version of the game as we make it so you can play along at home and tell us what’s cool and what’s broken.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;3 Bill &amp;amp; Noah&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 06:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/welcome</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The World of L5</title>
+        
+          <description>&lt;p&gt;L5 is set in the future, when we live in space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Earth&lt;/strong&gt; is uninhabitable - the High Seas have covered all but the tallest mountain peaks, and enormous storm systems torment the atmosphere. &lt;strong&gt;The Moon&lt;/strong&gt; has been mined to swiss cheese and it’s thin atmosphere offers little protection from the constant barrage of meteorites, which often cause massive cave-ins deep inside the brittle satellite.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 06:00:00 -0400</pubDate>
+        <link>
+        http://localhost:4000/world-of-l5</link>
+        <guid isPermaLink="true">http://localhost:4000/world-of-l5</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
