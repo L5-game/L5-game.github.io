@@ -71,7 +71,7 @@ username: L5-game
 repo: L5-game.github.io
 branch: master
 relative_source: ../l5-site/
-destination: ./_source/
+destination: ./_site/
 production_url:  https://l5-game.github.io/
 source_url: https://github.com/L5-game/L5-game.github.io
 
