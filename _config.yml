@@ -67,8 +67,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: L5-game
+repo: L5-game.github.io
 branch: master
 relative_source: ../l5_site/
 destination: ./_source/
