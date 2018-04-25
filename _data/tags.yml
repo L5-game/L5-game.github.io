@@ -10,3 +10,7 @@ announcements:
   name: announcements
   description: False
   cover: assets/images/talent_practice.png
+play:
+  name: play-l5
+  description: Resources to get started playing L5.
+  cover: assets/images/gameplay1.jpg
