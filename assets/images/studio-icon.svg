@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4926"
+   height="2in"
+   width="2in"
+   version="1.1"
+   viewBox="0 0 180.00001 180"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="studio-icon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview956"
+     showgrid="false"
+     inkscape:zoom="1.3111111"
+     inkscape:cx="-41.949153"
+     inkscape:cy="89.999999"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4926" />
+  <defs
+     id="defs4928">
+    <marker
+       id="marker9186-19"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path9188-97"
+         d="m0 5.65v-11.3"
+         transform="scale(.2)"
+         stroke="#000"
+         stroke-width="1pt"
+         fill="none" />
+    </marker>
+    <marker
+       id="marker9490-70"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path9492-8"
+         d="m5.77 0-8.65 5v-10l8.65 5z"
+         fill-rule="evenodd"
+         transform="matrix(.2 0 0 .2 -.6 0)"
+         stroke="#000"
+         stroke-width="1pt"
+         fill="#fff" />
+    </marker>
+    <marker
+       id="marker27184"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path27186"
+         d="m0 5.65v-11.3"
+         transform="scale(.2)"
+         stroke="#000"
+         stroke-width="1pt"
+         fill="none" />
+    </marker>
+    <marker
+       id="marker29603"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path29605"
+         d="m5.77 0-8.65 5v-10l8.65 5z"
+         fill-rule="evenodd"
+         transform="matrix(.2 0 0 .2 -.6 0)"
+         stroke="#000"
+         stroke-width="1pt"
+         fill="#fff" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4931">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g12936"
+     transform="matrix(5.5179,0,0,5.5181,-11836,-5607.36)"
+     style="fill:none;stroke-width:2.0388">
+    <g
+       id="g12938"
+       transform="matrix(1.5563,0,0,1.5563,5130.3,-1871)"
+       style="fill:none;stroke:#000000;stroke-width:1.30999994">
+      <rect
+         id="rect12940"
+         style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;stroke-linecap:round;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         transform="scale(-1,-1)"
+         ry="2.4382"
+         height="18.922001"
+         width="18.922001"
+         y="-1875.1"
+         x="1898.2" />
+      <rect
+         id="rect12942"
+         style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;stroke-linecap:square;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         height="5.9998002"
+         width="6.2104001"
+         y="1862.8"
+         x="-1910.8" />
+      <g
+         id="g156">
+        <path
+           id="path12944"
+           d="m -1916.7,1856.7 5.9911,6.0099"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12946"
+           d="m -1904.5,1868.9 5.6632,5.6851"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12948"
+           d="m -1910.9,1868.9 -5.7959,5.6778"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path12950"
+           d="m -1898.8,1856.6 -5.637,5.9899"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

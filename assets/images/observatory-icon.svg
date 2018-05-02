@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4926"
+   height="2in"
+   width="2in"
+   version="1.1"
+   viewBox="0 0 180.00001 180"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="observatory-icon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview956"
+     showgrid="false"
+     inkscape:zoom="0.65555556"
+     inkscape:cx="32.747854"
+     inkscape:cy="156.53489"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4926" />
+  <defs
+     id="defs4928">
+    <marker
+       id="marker9186-19"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path9188-97"
+         d="m0 5.65v-11.3"
+         transform="scale(.2)"
+         stroke="#000"
+         stroke-width="1pt"
+         fill="none" />
+    </marker>
+    <marker
+       id="marker9490-70"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path9492-8"
+         d="m5.77 0-8.65 5v-10l8.65 5z"
+         fill-rule="evenodd"
+         transform="matrix(.2 0 0 .2 -.6 0)"
+         stroke="#000"
+         stroke-width="1pt"
+         fill="#fff" />
+    </marker>
+    <marker
+       id="marker27184"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path27186"
+         d="m0 5.65v-11.3"
+         transform="scale(.2)"
+         stroke="#000"
+         stroke-width="1pt"
+         fill="none" />
+    </marker>
+    <marker
+       id="marker29603"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible">
+      <path
+         id="path29605"
+         d="m5.77 0-8.65 5v-10l8.65 5z"
+         fill-rule="evenodd"
+         transform="matrix(.2 0 0 .2 -.6 0)"
+         stroke="#000"
+         stroke-width="1pt"
+         fill="#fff" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4931">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(8.3278,0,0,8.3267,9424.7,-11195.36)"
+     id="g12011"
+     style="fill:none;stroke:#000000;stroke-width:1.35099995">
+    <rect
+       x="1111.2"
+       y="-1365.1"
+       width="19.511999"
+       height="19.511999"
+       transform="scale(-1,-1)"
+       style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;stroke-linecap:round;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+       ry="2.5142"
+       id="rect12013" />
+    <circle
+       r="4.8369999"
+       cx="-1120.9"
+       cy="1355.3"
+       style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;stroke-linecap:square;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+       id="circle12015" />
+  </g>
+</svg>
