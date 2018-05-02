@@ -10,10 +10,10 @@ baseurl: /
 # Website info
 title: L5
 description: The orbital board game
-cover: assets/images/voyager-test.jpg
-logo: assets/images/l5-logo-neutral.svg
-logo_dark: assets/images/l5-logo-neutral.svg
-favicon: assets/images/l5-logo-neutral.svg
+cover: assets/images/.jpg
+logo: assets/images/l5-logo.svg
+logo_dark: assets/images/l5-logo.svg
+favicon: assets/images/l5-logo.svg
 
 # Social info
 navigation: True # show the navbar links

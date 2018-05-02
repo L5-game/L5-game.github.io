@@ -1,16 +1,12 @@
 world:
-  name: world-of-l5 
+  name: World of L5
   description: False
-  cover: assets/images/talent_send.png
-game-development:
-  name: development
-  description: Our progress making this game
-  cover: assets/images/talent_print.png
-announcements:
-  name: announcements
-  description: False
-  cover: assets/images/talent_practice.png
+  cover: assets/images/.png
 play:
-  name: play-l5
+  name: Play L5
   description: Resources to get started playing L5.
-  cover: assets/images/gameplay1.jpg
+  cover: assets/images/backpack-print.jpg
+meta:
+  name: Meta
+  description: Game development, etc.
+  cover: assets/images/.jpg

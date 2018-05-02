@@ -2,8 +2,7 @@ bill:
   username: bill
   name: Bill Noble
   location: Bronx, NY
-  bio: "L5 developer. I also work as a computational linguist. Or as Noah puts it: \"teaching computers to read.\""
-  picture: assets/images/TaraProgrammer-Bill.png
+  picture: assets/images/bill-face.jpg
   twitter: winobes
   cover: assets/images/bill-tokyo.jpg
 noah:
@@ -12,6 +11,5 @@ noah:
   location: Bronx, NY
   url_full: https://www.noahmease.com/
   url: noahmease.com
-  bio: L5 developer. Also makes props and writes plays.
-  picture: assets/images/IrisProducer-Noah.png
+  picture: assets/images/noah-face.jpg
   cover: assets/images/tokyo-pipes.jpg
