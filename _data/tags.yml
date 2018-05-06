@@ -1,12 +1,8 @@
-world:
-  name: World of L5
-  description: False
-  cover: assets/images/.png
-play:
-  name: Play L5
-  description: Resources to get started playing L5.
-  cover: assets/images/backpack-print.jpg
+world-of-l5:
+  name: world-of-l5
+  description: "Find out what it's like to live in L5."
+  cover: assets/images/tokyo-pipes.jpg
 meta:
-  name: Meta
-  description: Game development, etc.
-  cover: assets/images/.jpg
+  name: meta
+  description: "Game development, announcements, and more."
+  cover: assets/images/redcorp-arcade.jpg
