@@ -42,8 +42,7 @@ Each character in L5 has a unique Tech, Accessory, Face, and ID that contain the
 
 Cut out the _character IDs_ and _tech_ and _accessories_ from the second and third pages of _printables_. 
 
-Then, cut out the full-color faces at the bottom of the page (you can leave a loose white boarder around the faces). 
-Cut out the faces on the second page and tape them to the blank part of the IDs, or draw your own. 
+Then, cut out the full-color faces and tape them to the blank part of the IDs, or draw your own. 
 
 There's also a handy meta-reference card with a guide to the basic elements of the world of the game.
 
