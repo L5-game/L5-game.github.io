@@ -9,7 +9,10 @@ class: page-template
 subclass: 'post page'
 ---
 
-# Coming Soon
+You focused the blue telescope on Tortuga!
 
+Analysis of Tortuga's wake reveals evidence of an extensive underbelly! 
+
+Stay tuned for...   
 **Mysteries of the Deep**  
 _Act II: The Remora_

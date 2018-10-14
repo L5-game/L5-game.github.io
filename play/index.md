@@ -89,6 +89,7 @@ And, finally... the only thing we haven't figured out how to print yet -
 
 Playing L5 requires *50 6-Sided Dice,* which are called *data* in the world of the game. These dice should include 10 of each of these colors - Red, Green, Blue, Violet - though the full version of L5 will also include 10 clear (or yellow) dice.  
 
+In Act 1 you'll only need blue, green, and clear (or yellow) dice. And you can probably get away with fewer than 10 of the green and clear varities.
+
 A search for "50 dice in 5 colors" will yield multiple results. We have [these](https://www.amazon.com/dp/B076HQMDDV/ref=asc_df_B076HQMDDV5451365) for the moment. The colors aren't perfect, but they're pretty good. If you want, you can use gold foil star stickers to place on top of the sixes.
 
-You can _probably_ get away with fewer than 50 dice in Act 1. But the limit of 10 data per culture is built in to the rules (you can't use more than that even of you have them).
