@@ -12,8 +12,8 @@ subclass: 'post page'
 # Downloads
 
 L5 -- Mysteries of the Deep, Act One
-* [Intro dialogue]({{ site.url}}/assets/downloads/L5-MotD-1_How-to-Play.pdf)
-* [How to play]({{ site.url}}assets/downloads/L5-MotD-1_Intro-Dialogue.pdf)
+* [Intro dialogue]({{ site.url}}/assets/downloads/L5-MotD-1_Intro-Dialogue.pdf)
+* [How to play]({{ site.url}}assets/downloads/L5-MotD-1_How-to-Play.pdf)
 * [Station]({{ site.url}}/assets/downloads/L5-MotD-1_Station.pdf)
 * [Tech & IDs]({{ site.url}}/assets/downloads/L5-MotD-1_Tech-and-IDs.pdf)
 * [Orbit cards]({{ site.url}}/assets/downloads/L5-MotD-1_Orbit-Cards.pdf)
