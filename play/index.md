@@ -3,7 +3,7 @@ layout: page
 current: play
 title: Play L5
 navigation: true
-cover:  assets/images/2018-05-25-setup.jpg
+cover:  assets/images/2018-07-20-setup.jpg
 logo: 'assets/images/l5-logo.png'
 class: page-template 
 subclass: 'post page'
@@ -85,4 +85,3 @@ And, finally... the only thing we haven't figured out how to print yet -
 
 Playing L5 requires *50 6-Sided Dice,* which are called *data* in the world of the game. These dice should include 10 of each of these colors - Red, Green, Blue, Violet - though the full version of L5 will also include 10 clear (or yellow) dice.  
 A search for "50 dice in 5 colors" will yield multiple results. We have [these](https://www.amazon.com/dp/B076HQMDDV/ref=asc_df_B076HQMDDV5451365) for the moment. The colors aren't perfect, but they're pretty good. If you want, you can use gold foil star stickers to place on top of the sixes.
-
