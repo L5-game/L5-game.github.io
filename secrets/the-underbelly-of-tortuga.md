@@ -11,7 +11,7 @@ subclass: 'post page'
 
 You focused the blue telescope on Tortuga!
 
-Analysis of Tortuga's wake reveals evidence of an extensive underbelly! 
+Analysis of Tortuga's wake reveals evidence of an extensive underbelly.
 
 Stay tuned for...   
 **Mysteries of the Deep**  
