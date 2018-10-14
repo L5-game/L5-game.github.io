@@ -26,3 +26,5 @@ We’re hoping this version of the game is (as always) more approachable and mor
 This is a cooperative game for 1-3 players, and you really can play alone, controlling all three characters and using them to solve the puzzle within the time limit. We’ve set the scene and provided the tech, things, systems, and constructs we think you may need to accomplish the task, but the story of how your team accomplishes this goal (or doesn’t) is up to you.
 
 You can find (almost) everything you need to **play the newest version** of L5 right [here](/play). 
+
+And if you want to get an email about our next update, please sign up for our [mailing list](http://eepurl.com/dKfVXQ).

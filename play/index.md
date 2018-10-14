@@ -93,3 +93,5 @@ In Act 1 you'll only need blue, green, and clear (or yellow) dice. And you can p
 
 A search for "50 dice in 5 colors" will yield multiple results. We have [these](https://www.amazon.com/dp/B076HQMDDV/ref=asc_df_B076HQMDDV5451365) for the moment. The colors aren't perfect, but they're pretty good. If you want, you can use gold foil star stickers to place on top of the sixes.
 
+To stay up to date with new chapters and game updates, subscribe to our [maliing list](http://eepurl.com/dKfVXQ).
+
