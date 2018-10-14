@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/2018-07-20-setup.jpg
 navigation: True
 title: Mysteries of the Deep, Act One
-date: 2018-10-14 23:30:00
+date: 2018-10-14 00:30:00
 tags: [Meta]
 class: post-template
 subclass: 'post'
