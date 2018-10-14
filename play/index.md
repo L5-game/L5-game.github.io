@@ -12,7 +12,7 @@ subclass: 'post page'
 # Downloads
 
 L5 -- Mysteries of the Deep, Act One
-* [Into dialogue]({{ site.url}}/assets/downloads/L5-MotD-1_How-to-Play.pdf)
+* [Intro dialogue]({{ site.url}}/assets/downloads/L5-MotD-1_How-to-Play.pdf)
 * [How to play]({{ site.url}}assets/downloads/L5-MotD-1_Intro-Dialogue.pdf)
 * [Station]({{ site.url}}/assets/downloads/L5-MotD-1_Station.pdf)
 * [Tech & IDs]({{ site.url}}/assets/downloads/L5-MotD-1_Tech-and-IDs.pdf)
@@ -55,9 +55,9 @@ Cut out the _arcades_ and the _keep_ from the first page of the PDF. Only cut al
 
 We recommend printing all the PDFs on cardstock if possible (we used 110lb cardstock) and mounting the arcades on cardboard for extra stability.
 
-## Character Gear - IDs, Tech & Accessories
+## Character Gear - IDs, Tech
 
-Each character in L5 has a unique Tech, Accessory, Face, and ID that contain their power-set and store their data.
+Each character in L5 has a unique Tech, Face, and ID that contain their power-set and store their data.
 
 Cut out the _character IDs_ and _tech_,
 then, cut out the full-color faces and tape them to the blank part of the IDs, or draw your own. 

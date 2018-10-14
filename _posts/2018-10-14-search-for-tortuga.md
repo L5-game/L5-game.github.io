@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/2018-10-14-tortuga.png
 navigation: True
-title: Mysteries of the Deep, Act One
+title: The Search for Tortuga 
 date: 2018-10-14 00:31:00
 tags: [World of L5]
 class: post-template
@@ -107,19 +107,19 @@ Yeah, I don’t think it’s fair to compare my culture to any place on earth.
 
 ### THE BLUE ASTRONAUT’S PROPOSITION:
 
-_We’re entering a brief period of alignment, when this blue telescope could focus its lens  
-on the area of earth where Tortuga is projected to be floating.
+_We’re entering a brief period of alignment, when this blue telescope could focus its lens_  
+_on the area of earth where Tortuga is projected to be floating._
 
-If bluecorp culture is in danger of decline in the direction of Tortuga’s “JUSTICE,” then  
-there must be a similarity between Tortuga and this blue station.  
-We’ll focus the station’s observatories on Tortuga, and see it for ourselves.
+_If bluecorp culture is in danger of decline in the direction of Tortuga’s “JUSTICE,” then_  
+_there must be a similarity between Tortuga and this blue station._  
+_We’ll focus the station’s observatories on Tortuga, and see it for ourselves._
 
-And if there are outcasts to be rescued,  
-maybe we can help.  
+_And if there are outcasts to be rescued,_  
+_maybe we can help._
 
-And maybe we can find some evidence  
-of the existence of this Underbelly,.  
-And maybe we an offer an invitation to any people who might be living there._
+_And maybe we can find some evidence_  
+_of the existence of this Underbelly,._  
+_And maybe we an offer an invitation to any people who might be living there._
 
 
 ![The Team]({{ site.url}}/assets/images/2018-10-11-MotD-Act-1-Team.png)
