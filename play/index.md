@@ -48,7 +48,7 @@ Here's what you'll need:
 - 16 Covers (coins, counters, etc.)
 
 
-## The Station Game Board -  Arcades & The Keep
+## The Station (game board)
 
 L5 is played on a modular space station board that can be arranged in any configuration. 
 Cut out the _arcades_ and the _keep_ from the first page of the PDF. Only cut along the black lines (the keep should remain connected to the amphitheater, garage, and three observatories that constitute the _blue telescope_. 
@@ -79,9 +79,16 @@ onto the Shrinky Dink plastic sheet (if one side is frosted, draw on the smooth 
 
 Alternatively, can just cut out the small color faces on the _station_ page to use as tokens by backing them with cardboard or foamboard for easier play. Or use coins, buttons, beads, whatever you've got! 
 
+## Covers
+
+Any kind of small coins or counters will work.
+
 ## Data (dice)
 
 And, finally... the only thing we haven't figured out how to print yet - 
 
 Playing L5 requires *50 6-Sided Dice,* which are called *data* in the world of the game. These dice should include 10 of each of these colors - Red, Green, Blue, Violet - though the full version of L5 will also include 10 clear (or yellow) dice.  
+
 A search for "50 dice in 5 colors" will yield multiple results. We have [these](https://www.amazon.com/dp/B076HQMDDV/ref=asc_df_B076HQMDDV5451365) for the moment. The colors aren't perfect, but they're pretty good. If you want, you can use gold foil star stickers to place on top of the sixes.
+
+You can _probably_ get away with fewer than 50 dice in Act 1. But the limit of 10 data per culture is built in to the rules (you can't use more than that even of you have them).
