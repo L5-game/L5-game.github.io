@@ -9,7 +9,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-# Downloads
+# Printables
 
 L5 -- Mysteries of the Deep, Act One
 * [Intro dialogue]({{ site.url}}/assets/downloads/L5-MotD-1_Intro-Dialogue.pdf)
