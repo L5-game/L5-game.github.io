@@ -30,8 +30,6 @@ In school
 my research was focused on Tortuga.  
 You know, the floating city  
 down on Earth.  
-they meet — floating — in the station’s keep,  
-where there is no gravity.  
 
 **CC**  
 The last green place on earth.  
