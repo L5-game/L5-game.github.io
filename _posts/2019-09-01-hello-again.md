@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover: assets/images/2019-08-01-blue-diva-red-programmer.jpg
+cover: assets/images/2019-09-01-blue-diva-red-programmer.jpg
 navigation: True
 title: Hello again! 
-date: 2019-08-01 23:30:00
+date: 2019-09-01 23:30:00
 tags: [Meta]
 class: post-template
 subclass: 'post'
